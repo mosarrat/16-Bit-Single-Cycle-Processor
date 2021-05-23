@@ -1,0 +1,5 @@
+lw R0 R1 0
+lw R0 R2 1
+lw R0 R3 2
+beq R2 R3 1
+add R1 R3 R1
